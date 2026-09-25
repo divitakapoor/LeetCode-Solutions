@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/divitakapoor/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/divitakapoor/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [1184-distance-between-bus-stops](https://github.com/divitakapoor/LeetCode-Solutions/tree/master/1184-distance-between-bus-stops) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/divitakapoor/LeetCode-Solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/divitakapoor/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/divitakapoor/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/divitakapoor/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/divitakapoor/LeetCode-Solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Math
 |  |
 | ------- |
