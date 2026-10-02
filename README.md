@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/divitakapoor/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [1089-duplicate-zeros](https://github.com/divitakapoor/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
 | [1184-distance-between-bus-stops](https://github.com/divitakapoor/LeetCode-Solutions/tree/master/1184-distance-between-bus-stops) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/divitakapoor/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/divitakapoor/LeetCode-Solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Hash Table
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/divitakapoor/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/divitakapoor/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [1089-duplicate-zeros](https://github.com/divitakapoor/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/divitakapoor/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/divitakapoor/LeetCode-Solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Math
 |  |
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/divitakapoor/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/divitakapoor/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
